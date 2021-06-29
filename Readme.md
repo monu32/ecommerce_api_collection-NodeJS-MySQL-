@@ -10,5 +10,5 @@ extract project zip folder ,if you have
 -> Replace or assign database name,database password,HOST,database user and PORT number
 in environment file(.env).
 
-->Import the attached API Collection for ecommerce and import in your POSTMAN.
+->Import the attached API Collection for ecommerce in your POSTMAN.
 ->Set the baseURL in postman variable.
